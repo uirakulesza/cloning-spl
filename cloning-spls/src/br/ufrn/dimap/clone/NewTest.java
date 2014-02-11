@@ -10,4 +10,7 @@ public class NewTest {
 		System.out.println("Mais uma mensagem [ALTERADA!] !!");
 	}
 
+    public void novaFuncionalidade(String parametro){
+        System.out.println(parametro);
+    }
 }
